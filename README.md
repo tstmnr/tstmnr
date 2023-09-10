@@ -35,40 +35,19 @@
 ### :hammer_and_wrench: Используемый стек и инструменты:
 
 <div id="stack">
-  <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/react-original-wordmark.svg" title="React" alt="React" width="50px" height="50px">&nbsp
-  <!-- <img id="stack-img" src="./image/react-router-mark-color-inverted.svg" title="React Router" alt="VSCode" width="50px" height="50px">&nbsp -->
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./image/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" width="50px" height="50px">
-    <source media="(prefers-color-scheme: light)" srcset="./image/react-router-mark-color.svg" alt="React Router" title="React Router" width="50px" height="50px">
-    <img src="./image/react-router-mark-color.svg" width="50px" height="50px" alt="React Router" title="React Router" width="50px" height="50px">
-  </picture>&nbsp -->
-  <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/express-original.svg" title="Express" alt="Express" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/vscode-original.svg" title="VSCode" alt="VSCode" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/html.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/css.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/javascript.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/react.svg" title="React" alt="React" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/webpack.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/nodejs.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/npm.svg" title="Npm" alt="Npm" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/mongodb.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/git.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/figma.svg" title="Figma" alt="Figma" width="50px" height="50px">&nbsp
 </div>
 
 ---
-
-### :fire: Моя статистика:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bjorn86&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjorn86&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!-- <div id="badges-resume" align="center">
-  <h3 id="header-resume">Моё резюме для работодателей</h3>
-  <a taget="_blank" href="https://career.habr.com/tstmnr">
-    <img src="https://img.shields.io/badge/Хабр Карьера-lightgrey?style=for-the-badge&color=6666cc" alt="Хабр Карьера"/>
-  </a>
-</div> -->
 
 <div id="footer" align="center">
   <img src="https://media3.giphy.com/media/YKLLS6ZGQsrwZVgXix/giphy.gif?cid=ecf05e47qwlyxeo5wvspsqdlr5kp6cs6wuf3kmhupx1u0bbs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Code" width="300"/>
