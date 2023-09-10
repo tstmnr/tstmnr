@@ -2,10 +2,6 @@
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zc0abiao2ba4kszrnwy9isgth59fpqm3rvtozc6h&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder" width="300"/>
 </div>
 
-<div id="views-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bjorn86&style=flat-square&color=brightgreen" alt="Views counter">
-</div>
-
 <h1 align="center">Привет &#128075; меня зовут Евгений</h1>
 
 <p align="center">Я из Москвы и ищу интересную работу на должность Frontend Developer / Web Developer</p>
